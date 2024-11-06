@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Regular;
+  src: url("../../public/PPGatwick-Regular.otf");
+}
+
+body {
+  font-family: Regular, 'Poppins', sans-serif;
+  background-color: #111111;
+}
+
+/* Optional: Class for specifically using Poppins */
+.font-poppins {
+  font-family: 'Poppins', sans-serif;
+}
