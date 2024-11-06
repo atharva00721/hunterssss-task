@@ -28,7 +28,7 @@ export default function Home() {
             <p>
               Behind this legendary hackathon and series of extraordinary event
               lies the heart and soul of Techuntersssss. More than a community,
-              it's a gathering of passionate individuals sharing love, interest,
+              it&aposs a gathering of passionate individuals sharing love, interest,
               and compassion for technology.
             </p>
             <p>
@@ -39,7 +39,7 @@ export default function Home() {
             </p>
             <p>So, if you love tech just like us, this is the place to be!</p>
             <p className="text-[#A16A00] font-semibold">
-              Here's how we made it.
+              Here&aposs how we made it.
             </p>
           </div>
         </div>
